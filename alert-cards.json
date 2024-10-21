@@ -4,7 +4,7 @@
 			"title": "Info Test",
 			"type": "info",
 			"body": "これはテストメッセージです. <br /> ごきげんよう",
-			"visible": true
+			"visible": false
 		},
 		{
 			"title": "Warn Test",
