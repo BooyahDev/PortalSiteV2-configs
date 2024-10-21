@@ -1,0 +1,18 @@
+{
+	"alerts": [
+		{
+			"title": "Info Test",
+			"type": "info",
+			"body": "これはテストメッセージです. <br /> ごきげんよう",
+			"visible": true
+		},
+		{
+			"title": "Warn Test",
+			"type": "warning",
+			"body": "これはWarnテストメッセージです. <br /> ごきげんよう",
+			"visible": true
+		}
+
+	]
+}
+
