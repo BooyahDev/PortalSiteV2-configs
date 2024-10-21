@@ -1,5 +1,5 @@
 {
-	"text": "基幹システム管理ツール", 
+	"text": "基幹管理ツール", 
 	"items": [
 		{"name": "gDNS",		"desc": "外向きDNS管理",	"icon": "/gdns.png",		"link":"https://gdns.booyah.dev/"},
 		{"name": "iDNS",		"desc": "内向きDNS管理",	"icon": "/idns.png",		"link":"https://idns.booyah.dev/"},
