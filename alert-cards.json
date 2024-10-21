@@ -1,6 +1,12 @@
 {
 	"items": [
 		{
+			"title": "メンテナンス中",
+			"type": "warning",
+			"body": "Spotify側の仕様変更により、しばらくの間下記のサービスが使用できません。<ul> <li>　・SpotifyRipper</li> </ul>",
+			"visible": true
+		},
+		{
 			"title": "Info Test",
 			"type": "info",
 			"body": "これはテストメッセージです. <br /> ごきげんよう",
@@ -10,7 +16,7 @@
 			"title": "Warn Test",
 			"type": "warning",
 			"body": "これはWarnテストメッセージです. <br /> ごきげんよう",
-			"visible": true
+			"visible": false
 		}
 
 	]
