@@ -7,6 +7,12 @@
 			"visible": true
 		},
 		{
+			"title": "お知らせ",
+			"type": "info",
+			"body": "TV関係のサービスを再開しました。<br /> また神奈川(川崎)のTVサービスを追加しました。",
+			"visible": true
+		},
+		{
 			"title": "Info Test",
 			"type": "info",
 			"body": "これはテストメッセージです. <br /> ごきげんよう",
