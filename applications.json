@@ -4,6 +4,7 @@
 		{"name": "メール",		"desc": "", 			"icon": "/email.png",		"link":"https://mail.booyah.dev/"},
  		{"name": "画像DL", 		"desc": "", 			"icon": "/imgdl.png",		"link":"https://imgdl.booyah.dev/"},
 		{"name": "音声・動画DL", 	"desc": "",			"icon": "/viddl.png",		"link":"https://gbdl.booyah.dev/"},
+		{"name": "音声・動画DL", 	"desc": "MeTube",		"icon": "/viddl.png",		"link":"https://metube.booyah.dev/"},
 		{"name": "高解像度化",		"desc": "軽量版",		"icon": "/picupcon.png",	"link":"https://picture-upcon.booyah.dev/"},
 		{"name": "声・音声分離",	"desc": "",			"icon": "/karaoke.png",		"link":"https://karaoke.booyah.dev/"},
 		{"name": "SpotifyRipper",	"desc": "音声抽出",		"icon": "/spotify.png",		"link":"https://spo.booyah.dev/"},
