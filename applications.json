@@ -7,6 +7,7 @@
 		{"name": "音声・動画DL", 	"desc": "MeTube",		"icon": "/viddl.png",		"link":"https://metube.booyah.dev/"},
 		{"name": "高解像度化",		"desc": "軽量版",		"icon": "/picupcon.png",	"link":"https://picture-upcon.booyah.dev/"},
 		{"name": "声・音声分離",	"desc": "",			"icon": "/karaoke.png",		"link":"https://karaoke.booyah.dev/"},
+		{"name": "Web魚拓",		"desc": "ArchiveBox",		"icon": "/archivebox.png",	"link":"https://archivebox.booyah.dev/"},
 		{"name": "SpotifyRipper",	"desc": "音声抽出",		"icon": "/spotify.png",		"link":"https://spo.booyah.dev/"},
 		{"name": "AppleJuice",		"desc": "野良iOSApp",		"icon": "/ipa.png",		"link":"https://applejuice.booyah.dev/"},
 		{"name": "Photo",		"desc": "Immich",		"icon": "/immich.png",		"link":"https://photo.booyah.dev/"},
