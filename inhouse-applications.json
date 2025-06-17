@@ -12,6 +12,7 @@
 		{"name": "proxmox002",		"desc": "tyd-vm", 		"icon": "/proxmox.png",		"link":"https://proxmox002.tyd.booyah.internal:8006/"},
 		{"name": "proxmox003",		"desc": "tyd-vm", 		"icon": "/proxmox.png",		"link":"https://proxmox003.tyd.booyah.internal:8006/"},
 		{"name": "proxmox100",		"desc": "tyd-vm", 		"icon": "/proxmox.png",		"link":"https://proxmox100.tyd.booyah.internal:8006/"},
+		{"name": "proxmox101",		"desc": "tyd-vm", 		"icon": "/proxmox.png",		"link":"https://10.0.100.101:8006/"},
 		{"name": "proxmox001",		"desc": "kws-vm", 		"icon": "/proxmox.png",		"link":"https://proxmox001.kws.booyah.internal:8006/"},
 		{"name": "Blackhole",		"desc": "PublicNAS",		"icon": "/blackhole.png",	"link":"http://blackhole.tyd.booyah.internal/cgi-bin/"},
 		{"name": "PigeonTel",		"desc": "IP電話",		"icon": "/pigeontel.png",	"link":"https://pigeontel.booyah.dev/"},
