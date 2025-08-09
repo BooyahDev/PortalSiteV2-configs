@@ -7,6 +7,7 @@
 		{"name": "GiTribe4",		"desc": "Unixユーザ管理", 	"icon": "/gitribe4.png",	"link":"https://gitribe4-console.booyah.dev/"},
 		{"name": "Keycloak",		"desc": "統合ユーザ管理", 	"icon": "/keycloak.png",	"link":"https://auth.booyah.dev/"},
 		{"name": "LDAP",		"desc": "統合ユーザDB", 	"icon": "/ldap.png",		"link":"https://389ds-ldap.tyd.booyah.internal:9090/389-console"},
+		{"name": "HomeLabCA",		"desc": "イントラ用SSL認証局", 	"icon": "/certificate.png",		"link":"https://10.0.50.2:8443/"},
 		{"name": "mk8s-mon",		"desc": "TYD-BASE", 	"icon": "/kube-ops-view.png",		"link":"https://k8s-monitor-base-tyd.booyah.dev/"},
 		{"name": "mk8s-mon",		"desc": "TYD-APP", 	"icon": "/kube-ops-view.png",		"link":"https://k8s-monitor-app-tyd.booyah.dev/"},
 		{"name": "mk8s-mon",		"desc": "KWS-BASE", 	"icon": "/kube-ops-view.png",		"link":"https://k8s-monitor-base-kws.booyah.dev/"},
