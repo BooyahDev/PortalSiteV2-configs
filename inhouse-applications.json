@@ -22,7 +22,7 @@
 		{"name": "Blackhole",		"desc": "PublicNAS",		"icon": "/blackhole.png",	"link":"http://blackhole.tyd.booyah.dev/cgi-bin/"},
 		{"name": "PigeonTel",		"desc": "IP電話",		"icon": "/pigeontel.png",	"link":"https://pigeontel.booyah.dev/"},
 		{"name": "WireGuard",		"desc": "wgt0",			"icon": "/wireguard.png",	"link":"http://10.0.50.51:30400/"},
-		{"name": "WireGuard",		"desc": "wgk0",			"icon": "/wireguard.png",	"link":"http://192.168.5.20:30400/"},
+		{"name": "WireGuard",		"desc": "wgk0",			"icon": "/wireguard.png",	"link":"http://10.1.0.20:30400/"},
 		{"name": "WireGuard",		"desc": "wgt0-noad",		"icon": "/wireguard.png",	"link":"http://10.0.50.50:30410/"},
 		{"name": "WireGuard",		"desc": "wgk0-noad",		"icon": "/wireguard.png",	"link":"http://192.168.5.21:30400/"}
 	]
