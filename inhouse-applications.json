@@ -11,6 +11,7 @@
 		{"name": "mk8s-mon",		"desc": "TYD-BASE", 	"icon": "/kube-ops-view.png",		"link":"https://k8s-monitor-base-tyd.booyah.dev/"},
 		{"name": "mk8s-mon",		"desc": "TYD-APP", 	"icon": "/kube-ops-view.png",		"link":"https://k8s-monitor-app-tyd.booyah.dev/"},
 		{"name": "mk8s-mon",		"desc": "KWS-BASE", 	"icon": "/kube-ops-view.png",		"link":"https://k8s-monitor-base-kws.booyah.dev/"},
+		{"name": "mk8s-mon",		"desc": "KWS-APP", 	"icon": "/kube-ops-view.png",		"link":"https://k8s-monitor-app-kws.booyah.dev/"},
 		{"name": "proxmox000",		"desc": "tyd-vm", 		"icon": "/proxmox.png",		"link":"https://proxmox000.tyd.booyah.dev:8006/"},
 		{"name": "proxmox001",		"desc": "tyd-vm", 		"icon": "/proxmox.png",		"link":"https://proxmox001.tyd.booyah.dev:8006/"},
 		{"name": "proxmox002",		"desc": "tyd-vm", 		"icon": "/proxmox.png",		"link":"https://proxmox002.tyd.booyah.dev:8006/"},
