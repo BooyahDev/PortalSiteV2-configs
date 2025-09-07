@@ -9,7 +9,7 @@
 		{"name": "音声・動画DL", 	"desc": "MeTube",		"icon": "/viddl.png",		"link":"https://metube.booyah.dev/"},
 		{"name": "高解像度化",		"desc": "軽量版",		"icon": "/picupcon.png",	"link":"https://picture-upcon.booyah.dev/"},
 		{"name": "声・音声分離",	"desc": "",			"icon": "/karaoke.png",		"link":"https://karaoke.booyah.dev/"},
-		{"name": "Fmhy",	"desc": "アングラ情報集",			"icon": "/fmhy.png",		"link":"https://cutpathgen.booyah.dev/"},
+		{"name": "Fmhy",	"desc": "アングラ情報集",			"icon": "/fmhy.png",		"link":"https://fmhy.net"},
 		{"name": "アクリルカットパス生成くん",	"desc": "レーザカット補助ツール",			"icon": "/cutline.png",		"link":"https://fmhy.net"},
 		{"name": "Web魚拓",		"desc": "user, password",	"icon": "/archivebox.png",	"link":"https://archivebox.booyah.dev/"},
 		{"name": "SpotifyRipper",	"desc": "音声抽出",		"icon": "/spotify.png",		"link":"https://spo.booyah.dev/"},
