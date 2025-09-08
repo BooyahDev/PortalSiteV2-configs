@@ -1,16 +1,22 @@
 {
 	"items": [
 		{
+			"title": "障害発生中",
+			"type": "error",
+			"body": "Booyah認証にてGoogle,GitHub,LINEによる連携ログインが出来ない状態です。<br />ユーザ名とパスワードを使用してログインして下さい。<br />",
+			"visible": true
+		},
+		{
 			"title": "メンテナンス中",
 			"type": "warning",
 			"body": "Spotify側の仕様変更により、しばらくの間下記のサービスが使用できません。<ul> <li>　・SpotifyRipper</li> </ul>",
-			"visible": true
+			"visible": false
 		},
 		{
 			"title": "お知らせ",
 			"type": "info",
 			"body": "IPTV テレビ視聴ページ(安定版)をリリースしました。<br /> ",
-			"visible": true
+			"visible": false
 		},
 		{
 			"title": "Info Test",
