@@ -1,9 +1,9 @@
 {
 	"items": [
 		{
-			"title": "障害発生中",
-			"type": "error",
-			"body": "Booyah認証にてGoogle,GitHub,LINEによる連携ログインが出来ない状態です。<br />ユーザ名とパスワードを使用してログインして下さい。<br />",
+			"title": "お知らせ",
+			"type": "info",
+			"body": "Booyah認証にてGoogle,GitHub,LINEによる連携は復旧しました。<br />連携情報がリセットされている場合は再連携をお願いします。<a href='https://auth.booyah.dev/realms/Booyah/account/#/security/linked-accounts'>外部連携設定</a><br />",
 			"visible": true
 		},
 		{
