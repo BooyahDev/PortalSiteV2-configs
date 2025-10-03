@@ -3,7 +3,7 @@
 		{
 			"title": "お知らせ",
 			"type": "info",
-			"body": "メールボックスの作成に失敗する問題は解決しました。<br /><a style='color: white;' href='https://account-register.booyah.dev'>メールボックス作成権限</a>を確認の上で、<a style='color: white;' href='https://mail.booyah.dev/?iam_sso=1'>メールログイン</a>をお試しください。",
+			"body": "メールボックスの作成に失敗する問題は解決しました。<br /><a style='color: white;' href='https://account-register.booyah.dev'>メールボックス作成権限</a>を確認の上で、<a style='color: white;' href='https://mail.booyah.dev/'>メールログイン</a>をお試しください。",
 			"visible": true
 		},
 		{
