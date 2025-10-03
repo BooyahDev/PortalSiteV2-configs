@@ -3,13 +3,13 @@
 		{
 			"title": "お知らせ",
 			"type": "info",
-			"body": "IPTVは廃止しました。代わりにIPTV2を使用してください。",
+			"body": "メールボックスの作成に失敗する問題は解決しました。<br /><a style='color: white;' href='https://account-register.booyah.dev'>メールボックス作成権限</a>を確認の上で、<a style='color: white;' href='https://mail.booyah.dev'>メールログイン</a>をお試しください。",
 			"visible": true
 		},
 		{
 			"title": "お知らせ",
 			"type": "info",
-			"body": "Booyah認証にてGoogle,GitHub,LINEによる連携は復旧しました。<br />連携情報がリセットされている場合は再連携をお願いします。<a href='https://auth.booyah.dev/realms/Booyah/account/#/security/linked-accounts'>外部連携設定</a><br />",
+			"body": "IPTVは廃止しました。代わりにIPTV2を使用してください。",
 			"visible": true
 		},
 		{
