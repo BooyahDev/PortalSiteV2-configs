@@ -1,7 +1,7 @@
 {
 	"text": "便利ツール", 
 	"items": [
-		{"name": "メール",		"desc": "フリーメール", 			"icon": "/email.png",		"link":"https://mail.booyah.dev/"},
+		{"name": "メール",		"desc": "フリーメール", 			"icon": "/email.png",		"link":"https://mail.booyah.dev/?iam_sso=1"},
 		{"name": "FreshRSS",		"desc": "RSSリーダ", 			"icon": "/freshrss.png",		"link":"https://freshrss.booyah.dev/i/?a=normal&sort=date&order=DESC"},
 		{"name": "ChatAI", 		"desc": "チャットAI", 		"icon": "/chatai.png",		"link":"https://chat.booyah.dev/"},
  		{"name": "画像DL", 		"desc": "", 			"icon": "/imgdl.png",		"link":"https://imgdl.booyah.dev/"},
@@ -10,7 +10,6 @@
 		{"name": "高解像度化",		"desc": "軽量版",		"icon": "/picupcon.png",	"link":"https://picture-upcon.booyah.dev/"},
 		{"name": "声・音声分離",	"desc": "",			"icon": "/karaoke.png",		"link":"https://karaoke.booyah.dev/"},
 		{"name": "Fmhy",	"desc": "アングラ情報集",			"icon": "/fmhy.png",		"link":"https://fmhy.net"},
-		{"name": "アクリルカットパス生成くん",	"desc": "レーザカット補助ツール",			"icon": "/cutline.png",		"link":"https://fmhy.net"},
 		{"name": "Web魚拓",		"desc": "user, password",	"icon": "/archivebox.png",	"link":"https://archivebox.booyah.dev/"},
 		{"name": "SpotifyRipper",	"desc": "音声抽出",		"icon": "/spotify.png",		"link":"https://spo.booyah.dev/"},
 		{"name": "AppleJuice",		"desc": "野良iOSApp",		"icon": "/ipa.png",		"link":"https://applejuice.booyah.dev/"},
