@@ -3,7 +3,7 @@
 		{
 			"title": "お知らせ",
 			"type": "info",
-			"body": "メールボックスの作成に失敗する問題は解決しました。<br /><a style='color: white;' href='https://account-register.booyah.dev'>メールボックス作成権限</a>を確認の上で、<a style='color: white;' href='https://mail.booyah.dev/'>メールログイン</a>をお試しください。",
+			"body": "<a style='color: white;' href='https://account-register.booyah.dev'>アカウント管理システム</a>を刷新しました。",
 			"visible": true
 		},
 		{
@@ -11,6 +11,12 @@
 			"type": "info",
 			"body": "IPTVは廃止しました。代わりにIPTV2を使用してください。",
 			"visible": true
+		},
+		{
+			"title": "お知らせ",
+			"type": "info",
+			"body": "メールボックスの作成に失敗する問題は解決しました。<br /><a style='color: white;' href='https://account-register.booyah.dev'>メールボックス作成権限</a>を確認の上で、<a style='color: white;' href='https://mail.booyah.dev/'>メールログイン</a>をお試しください。",
+			"visible": false
 		},
 		{
 			"title": "メンテナンス中",
