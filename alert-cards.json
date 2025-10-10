@@ -1,6 +1,12 @@
 {
 	"items": [
 		{
+			"title": "障害復旧",
+			"type": "warning",
+			"body": "Booyah!の各種ページがダウンした障害についてはDNSの自動処理のバグによるものでした。現在は随時復旧しています。まだ復旧していないページも復旧作業を実施中です。",
+			"visible": true
+		},
+		{
 			"title": "お知らせ",
 			"type": "info",
 			"body": "<a style='color: white;' href='https://account-register.booyah.dev'>アカウント管理システム</a>を刷新しました。",
@@ -10,7 +16,7 @@
 			"title": "お知らせ",
 			"type": "info",
 			"body": "IPTVは廃止しました。代わりにIPTV2を使用してください。",
-			"visible": true
+			"visible": false
 		},
 		{
 			"title": "お知らせ",
