@@ -5,54 +5,6 @@
 			"type": "error",
 			"body": "ロードバランサ故障・k8sクラスタ故障により一部のページが開けなくなっています。<br />復旧作業中ですので完了までお待ち下さい。完了予定日時は未定です。",
 			"visible": true
-		},
-		{
-			"title": "障害復旧",
-			"type": "warning",
-			"body": "Booyah!の各種ページがダウンした障害についてはDNSの自動処理のバグによるものでした。現在は随時復旧しています。まだ復旧していないページも復旧作業を実施中です。",
-			"visible": false
-		},
-		{
-			"title": "お知らせ",
-			"type": "info",
-			"body": "<a style='color: white;' href='https://account-register.booyah.dev'>アカウント管理システム</a>を刷新しました。",
-			"visible": false
-		},
-		{
-			"title": "お知らせ",
-			"type": "info",
-			"body": "IPTVは廃止しました。代わりにIPTV2を使用してください。",
-			"visible": false
-		},
-		{
-			"title": "お知らせ",
-			"type": "info",
-			"body": "メールボックスの作成に失敗する問題は解決しました。<br /><a style='color: white;' href='https://account-register.booyah.dev'>メールボックス作成権限</a>を確認の上で、<a style='color: white;' href='https://mail.booyah.dev/'>メールログイン</a>をお試しください。",
-			"visible": false
-		},
-		{
-			"title": "メンテナンス中",
-			"type": "warning",
-			"body": "Spotify側の仕様変更により、しばらくの間下記のサービスが使用できません。<ul> <li>　・SpotifyRipper</li> </ul>",
-			"visible": false
-		},
-		{
-			"title": "お知らせ",
-			"type": "info",
-			"body": "IPTV テレビ視聴ページ(安定版)をリリースしました。<br /> ",
-			"visible": false
-		},
-		{
-			"title": "Info Test",
-			"type": "info",
-			"body": "これはテストメッセージです. <br /> ごきげんよう",
-			"visible": false
-		},
-		{
-			"title": "Warn Test",
-			"type": "warning",
-			"body": "これはWarnテストメッセージです. <br /> ごきげんよう",
-			"visible": false
 		}
 
 	]
