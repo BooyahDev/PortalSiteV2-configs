@@ -16,7 +16,7 @@
 			"title": "お知らせ",
 			"type": "info",
 			"body": "<a style='color: white;' href='https://account-register.booyah.dev'>アカウント管理システム</a>を刷新しました。",
-			"visible": true
+			"visible": false
 		},
 		{
 			"title": "お知らせ",
