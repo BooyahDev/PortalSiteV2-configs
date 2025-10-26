@@ -2,6 +2,7 @@
 	"text": "便利ツール", 
 	"items": [
 		{"name": "メール",		"desc": "フリーメール", 			"icon": "/email.png",		"link":"https://mail.booyah.dev/"},
+		{"name": "高速道路情報",		"desc": "情報元 Jartic", 			"icon": "/car.png",		"link":"https://hw-traffic.booyah.dev/"},
 		{"name": "FreshRSS",		"desc": "RSSリーダ", 			"icon": "/freshrss.png",		"link":"https://freshrss.booyah.dev/i/?a=normal&sort=date&order=DESC"},
 		{"name": "ChatAI", 		"desc": "チャットAI", 		"icon": "/chatai.png",		"link":"https://chat.booyah.dev/"},
  		{"name": "画像DL", 		"desc": "", 			"icon": "/imgdl.png",		"link":"https://imgdl.booyah.dev/"},
