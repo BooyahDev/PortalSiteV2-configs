@@ -3,6 +3,12 @@
 		{
 			"title": "お知らせ",
 			"type": "info",
+			"body": "<a style='color: white;' href='https://spotrip.booyah.dev'>SpotifyRipper</a>が復活しました。Booyahアカウントを持っている場合に使用できます。",
+			"visible": true
+		},
+		{
+			"title": "お知らせ",
+			"type": "info",
 			"body": "<a style='color: white;' href='https://hw-traffic.booyah.dev'>高速道路情報</a>を追加しました。サクッと事故情報や規制情報が確認できます。",
 			"visible": true
 		}
