@@ -3,7 +3,7 @@
 		{
 			"title": "お知らせ",
 			"type": "info",
-			"body": "<a style='color: white;' href='https://spotrip.booyah.dev'>SpotifyRipper</a>が復活しました。Booyahアカウントを持っている方は使用できます。",
+			"body": "<a style='color: white;' href='https://spotrip.booyah.dev'>SpotifyRipper</a>が復活しました。Booyahアカウントを持っている方は使用できます。<br /><a style='color: white;' href='https://photopea.booyah.dev'>画像編集(Photopea)</a>を追加しました。Photshop, Illustratorなどのファイル編集や作成ができます。",
 			"visible": true
 		},
 		{
