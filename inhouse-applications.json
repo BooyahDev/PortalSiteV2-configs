@@ -24,6 +24,7 @@
 		{"name": "WireGuard",		"desc": "wgk0",			"icon": "/wireguard.png",	"link":"http://10.1.0.20:30400/"},
 		{"name": "WireGuard",		"desc": "wgt0-noad",		"icon": "/wireguard.png",	"link":"http://10.0.50.50:30410/"},
 		{"name": "WireGuard",		"desc": "wgk0-noad",		"icon": "/wireguard.png",	"link":"http://10.1.0.21:30410/"},
-		{"name": "WireGuard",		"desc": "wgy0-noad",		"icon": "/wireguard.png",	"link":"http://10.2.200.100:51821/"}
+		{"name": "WireGuard",		"desc": "wgy0-noad",		"icon": "/wireguard.png",	"link":"http://10.2.200.100:51821/"},
+		{"name": "Qnap",		"desc": "wgy0-noad",		"icon": "/wireguard.png",	"link":"http://10.2.0.40:8080/"},
 	]
 }
