@@ -86,6 +86,34 @@
 				]
 			}
 		]},
+		{"name": "pve",				"desc": "Proxmox独自UI(IP)", 			"icon": "/proxmox.png",		"categories": [
+			{
+				"category": "tyd",
+				"links": [
+					{"name": "pve000-tyd",		"desc": "10.0.100.1", 		"icon": "/proxmox.png",		"link":"https://10.0.101.0"},
+					{"name": "pve001-tyd",		"desc": "10.0.100.2", 		"icon": "/proxmox.png",		"link":"https://10.0.101.1"},
+					{"name": "pve002-tyd",		"desc": "10.0.100.3", 		"icon": "/proxmox.png",		"link":"https://10.0.101.2"},
+					{"name": "pve003-tyd",		"desc": "10.0.100.4", 		"icon": "/proxmox.png",		"link":"https://10.0.101.3"},
+					{"name": "pve004-tyd",		"desc": "10.0.100.5", 		"icon": "/proxmox.png",		"link":"https://10.0.101.4"}
+				]
+			},
+			{
+				"category": "kws",
+				"links": [
+					{"name": "pve000-kws",		"desc": "10.1.100.1", 		"icon": "/proxmox.png",		"link":"https://10.1.101.0"},
+					{"name": "pve001-kws",		"desc": "10.1.100.2", 		"icon": "/proxmox.png",		"link":"https://10.1.101.1"}
+				]
+			},
+			{
+				"category": "yiz",
+				"links": [
+					{"name": "pve000-yiz",		"desc": "10.2.100.1", 		"icon": "/proxmox.png",		"link":"https://10.2.101.0"},
+					{"name": "pve001-yiz",		"desc": "10.2.100.2", 		"icon": "/proxmox.png",		"link":"https://10.2.101.1"},
+					{"name": "pve002-yiz",		"desc": "10.2.100.3", 		"icon": "/proxmox.png",		"link":"https://10.2.101.2"},
+					{"name": "pve003-yiz",		"desc": "10.2.100.4", 		"icon": "/proxmox.png",		"link":"https://10.2.101.3"}
+				]
+			}
+		]},
 		{"name": "Blackhole",		"desc": "PublicNAS",		"icon": "/blackhole.png",	"link":"http://blackhole.tyd.booyah.dev/cgi-bin/"},
 		{"name": "PigeonTel",		"desc": "IP電話",		"icon": "/pigeontel.png",	"link":"https://pigeontel.booyah.dev/"},
 		{"name": "WireGuard",		"desc": "VPN",			"icon": "/wireguard.png",	"categories": [
