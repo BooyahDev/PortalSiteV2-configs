@@ -9,33 +9,79 @@
 		{"name": "Keycloak",		"desc": "統合ユーザ管理", 	"icon": "/keycloak.png",	"link":"https://auth.booyah.dev/"},
 		{"name": "LDAP",		"desc": "統合ユーザDB", 	"icon": "/ldap.png",		"link":"https://389ds-ldap.tyd.booyah.dev:9090/389-console"},
 		{"name": "HomeLabCA",		"desc": "イントラ用SSL認証局", 	"icon": "/certificate.png",		"link":"https://10.0.50.2:8443/"},
-		{"name": "proxmox000",		"desc": "tyd-vm", 		"icon": "/proxmox.png",		"link":"https://proxmox000.tyd.booyah.dev:8006/"},
-		{"name": "proxmox001",		"desc": "tyd-vm", 		"icon": "/proxmox.png",		"link":"https://proxmox001.tyd.booyah.dev:8006/"},
-		{"name": "proxmox002",		"desc": "tyd-vm", 		"icon": "/proxmox.png",		"link":"https://proxmox002.tyd.booyah.dev:8006/"},
-		{"name": "proxmox003",		"desc": "tyd-vm", 		"icon": "/proxmox.png",		"link":"https://proxmox003.tyd.booyah.dev:8006/"},
-		{"name": "proxmox004",		"desc": "tyd-vm", 		"icon": "/proxmox.png",		"link":"https://proxmox004.tyd.booyah.dev:8006/"},
-		{"name": "proxmox100",		"desc": "tyd-vm(画像)", 		"icon": "/proxmox.png",		"link":"https://proxmox100.tyd.booyah.dev:8006/"},
-		{"name": "proxmox102",		"desc": "tyd-vm(Rec)", 		"icon": "/proxmox.png",		"link":"https://proxmox102.tyd.booyah.dev:8006/"},
-		{"name": "proxmox000",		"desc": "kws-vm", 		"icon": "/proxmox.png",		"link":"https://proxmox000.kws.booyah.dev:8006/"},
-		{"name": "proxmox001",		"desc": "kws-vm", 		"icon": "/proxmox.png",		"link":"https://proxmox001.kws.booyah.dev:8006/"},
+		{"name": "proxmox",		"desc": "ProxmoxUI", 		"icon": "/proxmox.png",		"categories": [
+			{
+				"category": "tyd",
+				"links": [
+					{"name": "proxmox000",		"desc": "tyd-vm", 		"icon": "/proxmox.png",		"link":"https://proxmox000.tyd.booyah.dev:8006/"},
+					{"name": "proxmox001",		"desc": "tyd-vm", 		"icon": "/proxmox.png",		"link":"https://proxmox001.tyd.booyah.dev:8006/"},
+					{"name": "proxmox002",		"desc": "tyd-vm", 		"icon": "/proxmox.png",		"link":"https://proxmox002.tyd.booyah.dev:8006/"},
+					{"name": "proxmox003",		"desc": "tyd-vm", 		"icon": "/proxmox.png",		"link":"https://proxmox003.tyd.booyah.dev:8006/"},
+					{"name": "proxmox004",		"desc": "tyd-vm", 		"icon": "/proxmox.png",		"link":"https://proxmox004.tyd.booyah.dev:8006/"},
+					{"name": "proxmox100",		"desc": "tyd-vm(画像)", 		"icon": "/proxmox.png",		"link":"https://proxmox100.tyd.booyah.dev:8006/"},
+					{"name": "proxmox102",		"desc": "tyd-vm(Rec)", 		"icon": "/proxmox.png",		"link":"https://proxmox102.tyd.booyah.dev:8006/"}
+				]
+			},
+			{
+				"category": "kws",
+				"links": [
+					{"name": "proxmox000",		"desc": "kws-vm", 		"icon": "/proxmox.png",		"link":"https://proxmox000.kws.booyah.dev:8006/"},
+					{"name": "proxmox001",		"desc": "kws-vm", 		"icon": "/proxmox.png",		"link":"https://proxmox001.kws.booyah.dev:8006/"}
+				]
+			}
+		]},
+		{"name": "pve",				"desc": "Proxmox独自UI", 			"icon": "/proxmox.png",		"categories": [
+			{
+				"category": "tyd",
+				"links": [
+					{"name": "pve000-tyd",		"desc": "10.0.100.1", 		"icon": "/proxmox.png",		"link":"https://pve-tyd-000.booyah.dev"},
+					{"name": "pve001-tyd",		"desc": "10.0.100.2", 		"icon": "/proxmox.png",		"link":"https://pve-tyd-001.booyah.dev"},
+					{"name": "pve002-tyd",		"desc": "10.0.100.3", 		"icon": "/proxmox.png",		"link":"https://pve-tyd-002.booyah.dev"},
+					{"name": "pve003-tyd",		"desc": "10.0.100.4", 		"icon": "/proxmox.png",		"link":"https://pve-tyd-003.booyah.dev"},
+					{"name": "pve004-tyd",		"desc": "10.0.100.5", 		"icon": "/proxmox.png",		"link":"https://pve-tyd-004.booyah.dev"}
+				]
+			},
+			{
+				"category": "kws",
+				"links": [
+					{"name": "pve000-kws",		"desc": "10.1.100.1", 		"icon": "/proxmox.png",		"link":"https://pve-kws-000.booyah.dev"},
+					{"name": "pve001-kws",		"desc": "10.1.100.2", 		"icon": "/proxmox.png",		"link":"https://pve-kws-001.booyah.dev"}
+				]
+			},
+			{
+				"category": "yiz",
+				"links": [
+					{"name": "pve000-yiz",		"desc": "10.2.100.1", 		"icon": "/proxmox.png",		"link":"https://pve-yiz-000.booyah.dev"},
+					{"name": "pve001-yiz",		"desc": "10.2.100.2", 		"icon": "/proxmox.png",		"link":"https://pve-yiz-001.booyah.dev"},
+					{"name": "pve002-yiz",		"desc": "10.2.100.3", 		"icon": "/proxmox.png",		"link":"https://pve-yiz-002.booyah.dev"},
+					{"name": "pve003-yiz",		"desc": "10.2.100.4", 		"icon": "/proxmox.png",		"link":"https://pve-yiz-003.booyah.dev"}
+				]
+			}
+		]},
 		{"name": "Blackhole",		"desc": "PublicNAS",		"icon": "/blackhole.png",	"link":"http://blackhole.tyd.booyah.dev/cgi-bin/"},
 		{"name": "PigeonTel",		"desc": "IP電話",		"icon": "/pigeontel.png",	"link":"https://pigeontel.booyah.dev/"},
-		{"name": "WireGuard",		"desc": "wgt0",			"icon": "/wireguard.png",	"link":"http://10.0.50.51:30400/"},
-		{"name": "WireGuard",		"desc": "wgk0",			"icon": "/wireguard.png",	"link":"http://10.1.0.20:30400/"},
-		{"name": "WireGuard",		"desc": "wgt0-noad",		"icon": "/wireguard.png",	"link":"http://10.0.50.50:30410/"},
-		{"name": "WireGuard",		"desc": "wgk0-noad",		"icon": "/wireguard.png",	"link":"http://10.1.0.21:30410/"},
-		{"name": "WireGuard",		"desc": "wgy0-noad",		"icon": "/wireguard.png",	"link":"http://10.2.200.100:51821/"},
-		{"name": "pve000-tyd",		"desc": "tyd", 		"icon": "/proxmox.png",		"link":"https://pve-tyd-000.booyah.dev"},
-		{"name": "pve001-tyd",		"desc": "tyd", 		"icon": "/proxmox.png",		"link":"https://pve-tyd-001.booyah.dev"},
-		{"name": "pve002-tyd",		"desc": "tyd", 		"icon": "/proxmox.png",		"link":"https://pve-tyd-002.booyah.dev"},
-		{"name": "pve003-tyd",		"desc": "tyd", 		"icon": "/proxmox.png",		"link":"https://pve-tyd-003.booyah.dev"},
-		{"name": "pve004-tyd",		"desc": "tyd", 		"icon": "/proxmox.png",		"link":"https://pve-tyd-004.booyah.dev"},
-		{"name": "pve000-kws",		"desc": "kws", 		"icon": "/proxmox.png",		"link":"https://pve-kws-000.booyah.dev"},
-		{"name": "pve001-kws",		"desc": "kws", 		"icon": "/proxmox.png",		"link":"https://pve-kws-001.booyah.dev"},
-		{"name": "pve000-yiz",		"desc": "yiz", 		"icon": "/proxmox.png",		"link":"https://pve-yiz-000.booyah.dev"},
-		{"name": "pve001-yiz",		"desc": "yiz", 		"icon": "/proxmox.png",		"link":"https://pve-yiz-001.booyah.dev"},
-		{"name": "pve002-yiz",		"desc": "yiz", 		"icon": "/proxmox.png",		"link":"https://pve-yiz-002.booyah.dev"},
-		{"name": "pve003-yiz",		"desc": "yiz", 		"icon": "/proxmox.png",		"link":"https://pve-yiz-003.booyah.dev"},
+		{"name": "WireGuard",		"desc": "VPN",			"icon": "/wireguard.png",	"categories": [
+			{
+				"category": "tyd",
+				"links": [
+					{"name": "WireGuard",		"desc": "wgt0",			"icon": "/wireguard.png",	"link":"http://10.0.50.51:30400/"},
+					{"name": "WireGuard",		"desc": "wgt0-noad",		"icon": "/wireguard.png",	"link":"http://10.0.50.50:30410/"}
+				]
+			},
+			{
+				"category": "kws",
+				"links": [
+					{"name": "WireGuard",		"desc": "wgk0",			"icon": "/wireguard.png",	"link":"http://10.1.0.20:30400/"},
+					{"name": "WireGuard",		"desc": "wgk0-noad",		"icon": "/wireguard.png",	"link":"http://10.1.0.21:30410/"}
+				]
+			},
+			{
+				"category": "yiz",
+				"links": [
+					{"name": "WireGuard",		"desc": "wgy0-noad",		"icon": "/wireguard.png",	"link":"http://10.2.200.100:51821/"}
+				]
+			}
+		]},
 		{"name": "Qnap",		"desc": "wgy0-noad",		"icon": "/QNAP.png",	"link":"http://10.2.0.40:8080/"}
 	]
 }
