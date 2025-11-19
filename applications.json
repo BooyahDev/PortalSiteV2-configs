@@ -18,12 +18,26 @@
 		{"name": "Photo",		"desc": "Immich",		"icon": "/immich.png",		"link":"https://photo.booyah.dev/"},
 		{"name": "コミック閲覧",		"desc": "閲覧専用",		"icon": "/comic.png",		"link":"https://comic.booyah.dev/"},
 		{"name": "コミックファイラ",		"desc": "ファイル操作用",		"icon": "/comic-filer.png",		"link":"https://comic-file.booyah.dev/"},
-		{"name": "IPTV2",		"desc": "視聴用",		"icon": "/icon-tv-256.png",		"link":"https://iptv2.booyah.dev/"},
-		{"name": "東京TV",		"desc": "視聴用",		"icon": "/tv.png",		"link":"https://tv-tyd.booyah.dev/tv/"},
-		{"name": "東京TV",		"desc": "録画用",		"icon": "/rec.png",		"link":"https://tv-rec-tyd.booyah.dev/EMWUI/epg.html"},
-		{"name": "神奈川TV",		"desc": "視聴用",		"icon": "/tv.png",		"link":"https://tv-kws.booyah.dev/tv/"},
-		{"name": "神奈川TV",		"desc": "録画用",		"icon": "/rec.png",		"link":"https://tv-rec-kws.booyah.dev/EMWUI/epg.html"},
-		{"name": "NextCloud",		"desc": "東京側",		"icon": "/nextcloud.png",	"link":"https://nextcloud.booyah.dev/"},
-		{"name": "NextCloud",		"desc": "川崎側",		"icon": "/nextcloud.png",	"link":"https://pppcloud.pppland.dev/"}
+        {"name": "TV",		"desc": "テレビ関係",		"icon": "/tv.png",	"categories": [
+            {"category": "IPTV", "links": [
+                {"name": "IPTV2",		"desc": "視聴用",		"icon": "/icon-tv-256.png",	"link":"https://iptv2.booyah.dev/"}
+            ]},
+            {"category": "tyd", "links": [
+                {"name": "東京TV",		"desc": "視聴用",		"icon": "/tv.png",	"link":"https://tv-tyd.booyah.dev/tv/"},
+                {"name": "東京TV",		"desc": "録画用",		"icon": "/rec.png",	"link":"https://tv-rec-tyd.booyah.dev/EMWUI/epg.html"}
+            ]},
+            {"category": "kws", "links": [
+                {"name": "神奈川TV",		"desc": "視聴用",		"icon": "/tv.png",	"link":"https://tv-kws.booyah.dev/tv/"},
+                {"name": "神奈川TV",		"desc": "録画用",		"icon": "/rec.png",	"link":"https://tv-rec-kws.booyah.dev/EMWUI/epg.html"}
+            ]}
+        ]},
+        {"name": "NextCloud",		"desc": "クラウドストレージ",		"icon": "/nextcloud.png",	"categories": [
+            {"category": "tyd", "links": [
+                {"name": "NextCloud",		"desc": "東京側",		"icon": "/nextcloud.png",	"link":"https://nextcloud.booyah.dev/"}
+            ]},
+            {"category": "kws", "links": [
+                {"name": "NextCloud",		"desc": "川崎側",		"icon": "/nextcloud.png",	"link":"https://nextcloud.booyah.dev/"}
+            ]}
+        ]}
 	]
 }
