@@ -30,7 +30,7 @@
 				]
 			}
 		]},
-		{"name": "pve",				"desc": "Proxmox独自UI", 			"icon": "/proxmox.png",		"categories": [
+		{"name": "pve",				"desc": "Proxmox独自UI(外)", 			"icon": "/proxmox.png",		"categories": [
 			{
 				"category": "tyd",
 				"links": [
@@ -55,6 +55,34 @@
 					{"name": "pve001-yiz",		"desc": "10.2.100.2", 		"icon": "/proxmox.png",		"link":"https://pve-yiz-001.booyah.dev"},
 					{"name": "pve002-yiz",		"desc": "10.2.100.3", 		"icon": "/proxmox.png",		"link":"https://pve-yiz-002.booyah.dev"},
 					{"name": "pve003-yiz",		"desc": "10.2.100.4", 		"icon": "/proxmox.png",		"link":"https://pve-yiz-003.booyah.dev"}
+				]
+			}
+		]},
+		{"name": "pve",				"desc": "Proxmox独自UI(内)", 			"icon": "/proxmox.png",		"categories": [
+			{
+				"category": "tyd",
+				"links": [
+					{"name": "pve000-tyd",		"desc": "10.0.100.1", 		"icon": "/proxmox.png",		"link":"https://pvein-tyd-000.booyah.dev"},
+					{"name": "pve001-tyd",		"desc": "10.0.100.2", 		"icon": "/proxmox.png",		"link":"https://pvein-tyd-001.booyah.dev"},
+					{"name": "pve002-tyd",		"desc": "10.0.100.3", 		"icon": "/proxmox.png",		"link":"https://pvein-tyd-002.booyah.dev"},
+					{"name": "pve003-tyd",		"desc": "10.0.100.4", 		"icon": "/proxmox.png",		"link":"https://pvein-tyd-003.booyah.dev"},
+					{"name": "pve004-tyd",		"desc": "10.0.100.5", 		"icon": "/proxmox.png",		"link":"https://pvein-tyd-004.booyah.dev"}
+				]
+			},
+			{
+				"category": "kws",
+				"links": [
+					{"name": "pve000-kws",		"desc": "10.1.100.1", 		"icon": "/proxmox.png",		"link":"https://pvein-kws-000.booyah.dev"},
+					{"name": "pve001-kws",		"desc": "10.1.100.2", 		"icon": "/proxmox.png",		"link":"https://pvein-kws-001.booyah.dev"}
+				]
+			},
+			{
+				"category": "yiz",
+				"links": [
+					{"name": "pve000-yiz",		"desc": "10.2.100.1", 		"icon": "/proxmox.png",		"link":"https://pvein-yiz-000.booyah.dev"},
+					{"name": "pve001-yiz",		"desc": "10.2.100.2", 		"icon": "/proxmox.png",		"link":"https://pvein-yiz-001.booyah.dev"},
+					{"name": "pve002-yiz",		"desc": "10.2.100.3", 		"icon": "/proxmox.png",		"link":"https://pvein-yiz-002.booyah.dev"},
+					{"name": "pve003-yiz",		"desc": "10.2.100.4", 		"icon": "/proxmox.png",		"link":"https://pvein-yiz-003.booyah.dev"}
 				]
 			}
 		]},
