@@ -1,12 +1,6 @@
 {
 	"items": [
 		{
-			"title": "動作確認",
-			"type": "info",
-			"body": "これはテストメッセージです. その1",
-			"visible": true
-		},
-		{
 			"title": "お知らせ",
 			"type": "info",
 			"body": "<a style='color: white;' href='https://spotrip.booyah.dev'>SpotifyRipper</a>が復活しました。Booyahアカウントを持っている方は使用できます。<br /><a style='color: white;' href='https://photopea.booyah.dev'>画像編集(Photopea)</a>を追加しました。Photshop, Illustratorなどのファイル編集や作成ができます。<br /><a style='color: white;' href='https://hw-traffic.booyah.dev'>高速道路情報</a>を追加しました。サクッと事故情報や規制情報が確認できます。",
