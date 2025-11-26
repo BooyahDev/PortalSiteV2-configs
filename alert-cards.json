@@ -1,21 +1,21 @@
 {
 	"items": [
 		{
-			"title": "お知らせ",
+			"title": "お知らせ（2025/11/27）",
+			"type": "error",
+			"body": "<a style='color: white;' href='https://spotrip.booyah.dev'>SpotifyRipper</a>のバグは修正が完了しました。使用可能な状態です。",
+			"visible": true
+		},
+		{
+			"title": "お知らせ（2025/11/26）",
 			"type": "info",
 			"body": "<a style='color: white;' href='https://tv-tyd.booyah.dev/'>東京TV視聴</a>、<a style='color: white;' href='https://tv-rec-tyd.booyah.dev'>東京TV録画予約</a> システムの運用を再開しました。<br> Booyah!認証すると使用可能です。",
 			"visible": true
 		},
 		{
-			"title": "バグ報告",
-			"type": "error",
-			"body": "<a style='color: white;' href='https://spotrip.booyah.dev'>SpotifyRipper</a>はバグにより使用できない状態です。修正が完了するまでお待ち下さい。",
-			"visible": true
-		},
-		{
 			"title": "お知らせ",
 			"type": "info",
-			"body": "<a style='color: white;' href='https://spotrip.booyah.dev'>SpotifyRipper</a>が復活しました。Booyahアカウントを持っている方は使用できます。<br /><a style='color: white;' href='https://photopea.booyah.dev'>画像編集(Photopea)</a>を追加しました。Photshop, Illustratorなどのファイル編集や作成ができます。<br /><a style='color: white;' href='https://hw-traffic.booyah.dev'>高速道路情報</a>を追加しました。サクッと事故情報や規制情報が確認できます。",
+			"body": "<a style='color: white;' href='https://photopea.booyah.dev'>画像編集(Photopea)</a>を追加しました。Photshop, Illustratorなどのファイル編集や作成ができます。<br /><a style='color: white;' href='https://hw-traffic.booyah.dev'>高速道路情報</a>を追加しました。サクッと事故情報や規制情報が確認できます。",
 			"visible": true
 		}
 	]
