@@ -2,8 +2,8 @@
 	"items": [
 		{
 			"title": "お知らせ",
-			"type": "warning",
-			"body": "<a style='color: white;' href='https://iptv2.booyah.dev'>IPTV2</a>は既存の映像配信元が無くなったためそのままでは使用できません。自身でプレイリストを追加したら使用可能です。<br>なお代替手段を現在準備中です。",
+			"type": "info",
+			"body": "<a style='color: white;' href='https://tv-tyd.booyah.dev/'>東京TV視聴</a>、<a style='color: white;' href='https://tv-rec-tyd.booyah.dev'>東京TV録画予約</a> システムの運用を再開しました。<br> Booyah!認証すると使用可能です。",
 			"visible": true
 		},
 		{
