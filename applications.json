@@ -24,11 +24,11 @@
             ]},
             {"category": "tyd", "links": [
                 {"name": "東京TV",		"desc": "視聴用",		"icon": "/tv.png",	"link":"https://tv-tyd.booyah.dev/tv/"},
-                {"name": "東京TV",		"desc": "録画用",		"icon": "/rec.png",	"link":"https://tv-rec-tyd.booyah.dev/EMWUI/epg.html"}
+                {"name": "東京TV",		"desc": "録画用",		"icon": "/rec.png",	"link":"https://tv-rec-tyd.booyah.dev"}
             ]},
             {"category": "kws", "links": [
                 {"name": "神奈川TV",		"desc": "視聴用",		"icon": "/tv.png",	"link":"https://tv-kws.booyah.dev/tv/"},
-                {"name": "神奈川TV",		"desc": "録画用",		"icon": "/rec.png",	"link":"https://tv-rec-kws.booyah.dev/EMWUI/epg.html"}
+                {"name": "神奈川TV",		"desc": "録画用",		"icon": "/rec.png",	"link":"https://tv-rec-kws.booyah.dev"}
             ]}
         ]},
         {"name": "NextCloud",		"desc": "クラウドストレージ",		"icon": "/nextcloud.png",	"categories": [
