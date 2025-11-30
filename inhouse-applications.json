@@ -139,6 +139,26 @@
 				]
 			}
 		]},
+		{"name": "MikoPBX",		"desc": "IP電話交換機",			"icon": "/miko-pbx.png",	"categories": [
+			{
+				"category": "tyd",
+				"links": [
+					{"name": "MikoPBX",		"desc": "10.0.70.0",			"icon": "/miko-pbx.png",	"link":"http://10.0.70.0:8080/"},
+				]
+			},
+			{
+				"category": "kws",
+				"links": [
+					{"name": "MikoPBX",		"desc": "10.1.70.0",			"icon": "/miko-pbx.png",	"link":"http://10.1.70.0:8080/"},
+				]
+			},
+			{
+				"category": "yiz",
+				"links": [
+					{"name": "MikoPBX",		"desc": "10.2.70.0",		"icon": "/miko-pbx.png",	"link":"http://10.2.70.0:8080/"}
+				]
+			}
+		]},
 		{"name": "Qnap",		"desc": "wgy0-noad",		"icon": "/QNAP.png",	"link":"http://10.2.0.40:8080/"}
 	]
 }
