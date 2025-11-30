@@ -143,13 +143,13 @@
 			{
 				"category": "tyd",
 				"links": [
-					{"name": "MikoPBX",		"desc": "10.0.70.0",			"icon": "/miko-pbx.png",	"link":"http://10.0.70.0:8080/"},
+					{"name": "MikoPBX",		"desc": "10.0.70.0",			"icon": "/miko-pbx.png",	"link":"http://10.0.70.0:8080/"}
 				]
 			},
 			{
 				"category": "kws",
 				"links": [
-					{"name": "MikoPBX",		"desc": "10.1.70.0",			"icon": "/miko-pbx.png",	"link":"http://10.1.70.0:8080/"},
+					{"name": "MikoPBX",		"desc": "10.1.70.0",			"icon": "/miko-pbx.png",	"link":"http://10.1.70.0:8080/"}
 				]
 			},
 			{
