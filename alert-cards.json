@@ -1,9 +1,9 @@
 {
 	"items": [
 		{
-			"title": "お知らせ（2025/11/27）",
+			"title": "お知らせ（2025/12/07）",
 			"type": "info",
-			"body": "<a style='color: white;' href='https://spotrip.booyah.dev'>SpotifyRipper</a>のバグは修正が完了しました。使用可能な状態です。",
+			"body": "<a style='color: white;' href='https://comm.booyah.dev'>コミュニティ</a>を開設しました。ツールやサービスへの質問や不具合の報告を出来るようにしました。お気軽にご連絡下さい。",
 			"visible": true
 		},
 		{
