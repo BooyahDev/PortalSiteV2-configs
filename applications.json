@@ -31,6 +31,14 @@
                 {"name": "神奈川TV",		"desc": "録画用",		"icon": "/rec.png",	"link":"https://tv-rec-kws.booyah.dev"}
             ]}
         ]},
+        {"name": "ファイラー",		"desc": "簡易ファイル置場",		"icon": "/filer.png",	"categories": [
+            {"category": "公開", "links": [
+                {"name": "file",		"desc": "公開用",		"icon": "/filer-public.png",	"link":"https://file.booyah.dev/"}
+            ]},
+            {"category": "限定", "links": [
+                {"name": "file-secret",		"desc": "関係者用",		"icon": "/filer-secret.png",	"link":"https://file-secret.booyah.dev/"}
+            ]}
+        ]},
         {"name": "NextCloud",		"desc": "クラウドストレージ",		"icon": "/nextcloud.png",	"categories": [
             {"category": "tyd", "links": [
                 {"name": "NextCloud",		"desc": "東京側",		"icon": "/nextcloud.png",	"link":"https://nextcloud.booyah.dev/"}
