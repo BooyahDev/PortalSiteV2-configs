@@ -5,6 +5,7 @@
 		{"name": "高速道路情報",		"desc": "情報元 Jartic", 			"icon": "/car.png",		"link":"https://hw-traffic.booyah.dev/"},
 		{"name": "FreshRSS",		"desc": "RSSリーダ", 			"icon": "/freshrss.png",		"link":"https://freshrss.booyah.dev/i/?a=normal&sort=date&order=DESC"},
 		{"name": "ChatAI", 		"desc": "チャットAI", 		"icon": "/chatai.png",		"link":"https://chat.booyah.dev/"},
+		{"name": "Paste", 		"desc": "テキスト共有", 		"icon": "/paste.png",		"link":"https://paste.booyah.dev/"},
  		{"name": "画像DL", 		"desc": "", 			"icon": "/imgdl.png",		"link":"https://imgdl.booyah.dev/"},
 		{"name": "音声・動画DL", 	"desc": "",			"icon": "/viddl.png",		"link":"https://gbdl.booyah.dev/"},
 		{"name": "音声・動画DL", 	"desc": "MeTube",		"icon": "/viddl.png",		"link":"https://metube.booyah.dev/"},
