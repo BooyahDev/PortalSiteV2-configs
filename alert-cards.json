@@ -1,15 +1,9 @@
 {
 	"items": [
 		{
-			"title": "お知らせ（2025/12/07）",
+			"title": "お知らせ（2025/12/24）",
 			"type": "info",
-			"body": "<a style='color: white;' href='https://comm.booyah.dev'>コミュニティ</a>を開設しました。ツールやサービスへの質問や不具合の報告を出来るようにしました。お気軽にご連絡下さい。",
-			"visible": true
-		},
-		{
-			"title": "お知らせ（2025/11/26）",
-			"type": "info",
-			"body": "<a style='color: white;' href='https://tv-tyd.booyah.dev/'>東京TV視聴</a>、<a style='color: white;' href='https://tv-rec-tyd.booyah.dev'>東京TV録画予約</a> システムの運用を再開しました。<br> Booyah!認証すると使用可能です。",
+			"body": "<a style='color: white;' href='https://paste.booyah.dev'>Paste</a>を開設しました。メモなどにご活用ください。",
 			"visible": true
 		}
 	]
