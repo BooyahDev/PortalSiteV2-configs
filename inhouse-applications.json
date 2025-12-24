@@ -1,6 +1,7 @@
 {
 	"text": "基幹管理ツール", 
 	"items": [
+		{"name": "BoopsDB",		"desc": "マシン・NW管理",	"icon": "/boopsdb.png",		"link":"https://boopsdb.booyah.dev"},
 		{"name": "OctoFlow",		"desc": "L4ロードバランサ(Keepalived)管理",	"icon": "/octoflow_outline2.png",		"link":"https://octoflow.booyah.dev"},
 		{"name": "SparrowProxyUI",		"desc": "HTTPプロキシ管理",	"icon": "/sparrow.png",		"link":"https://sparrow.booyah.dev"},
 		{"name": "gDNS",		"desc": "外向きDNS管理",	"icon": "/gdns.png",		"link":"https://gdns.booyah.dev/"},
