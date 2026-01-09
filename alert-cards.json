@@ -5,12 +5,6 @@
 			"type": "info",
 			"body": "停電によりシステムの一部がダウンしていましたが復旧作業が随時完了しております。メール以外は現在使用可能です。",
 			"visible": true
-		},
-		{
-			"title": "お知らせ（2025/12/24）",
-			"type": "info",
-			"body": "<a style='color: white;' href='https://paste.booyah.dev'>Paste</a>を開設しました。メモなどにご活用ください。",
-			"visible": true
 		}
 	]
 }
