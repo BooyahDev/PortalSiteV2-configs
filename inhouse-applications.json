@@ -11,6 +11,7 @@
 		{"name": "LDAP",		"desc": "統合ユーザDB", 	"icon": "/ldap.png",		"link":"https://389ds-ldap.tyd.booyah.dev:9090/389-console"},
 		{"name": "HomeLabCA",		"desc": "イントラ用SSL認証局", 	"icon": "/certificate.png",		"link":"https://10.0.50.2:8443/"},
 		{"name": "証明書発行ツール",		"desc": "Let'sEncrypt証明書管理", 	"icon": "/letsencrypt.png",		"link":"http://10.0.1.10:3000/"},
+		{"name": "proxmox-rt",		"desc": "HomeNOCルータ親機", 	"icon": "/proxmox.png",		"link":"https://10.0.100.0:8006"},
 		{"name": "proxmox",		"desc": "ProxmoxUI", 		"icon": "/proxmox.png",		"categories": [
 			{
 				"category": "tyd",
