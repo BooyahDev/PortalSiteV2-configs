@@ -1,7 +1,7 @@
 {
 	"text": "便利ツール", 
 	"items": [
-		{"name": "メール",		"desc": "フリーメール", 			"icon": "/email.png",		"link":"https://mail.booyah.dev/"},
+		{"name": "メール！",		"desc": "フリーメール", 			"icon": "/email.png",		"link":"https://mail.booyah.dev/"},
 		{"name": "高速道路情報",		"desc": "情報元 Jartic", 			"icon": "/car.png",		"link":"https://hw-traffic.booyah.dev/"},
 		{"name": "休憩情報",		"desc": "全国温泉マップ", 			"icon": "/hotspring.png",		"link":"https://yuru-to.net"},
 		{"name": "FreshRSS",		"desc": "RSSリーダ", 			"icon": "/freshrss.png",		"link":"https://freshrss.booyah.dev/i/?a=normal&sort=date&order=DESC"},
