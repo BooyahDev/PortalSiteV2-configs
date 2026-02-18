@@ -4,6 +4,7 @@
 		{"name": "メール",		"desc": "フリーメール", 			"icon": "/email.png",		"link":"https://mail.booyah.dev/"},
 		{"name": "高速道路情報",		"desc": "情報元 Jartic", 			"icon": "/car.png",		"link":"https://hw-traffic.booyah.dev/"},
 		{"name": "休憩情報",		"desc": "全国温泉マップ", 			"icon": "/hotspring.png",		"link":"https://yuru-to.net"},
+		{"name": "震度マップ",		"desc": "日本全国のリアルタイム震度", 			"icon": "/eew.png",		"link":"https://eew.booyah.dev/"},
 		{"name": "FreshRSS",		"desc": "RSSリーダ", 			"icon": "/freshrss.png",		"link":"https://freshrss.booyah.dev/i/?a=normal&sort=date&order=DESC"},
 		{"name": "ChatAI", 		"desc": "チャットAI", 		"icon": "/chatai.png",		"link":"https://chat.booyah.dev/"},
 		{"name": "Paste", 		"desc": "テキスト共有", 		"icon": "/paste.png",		"link":"https://paste.booyah.dev/"},
