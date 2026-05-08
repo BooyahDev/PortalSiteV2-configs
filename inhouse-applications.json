@@ -4,6 +4,7 @@
 		{"name": "BoopsDB",		"desc": "マシン・NW管理",	"icon": "/boopsdb.png",		"link":"https://boopsdb.booyah.dev"},
 		{"name": "OctoFlow",		"desc": "L4ロードバランサ(Keepalived)管理",	"icon": "/octoflow_outline2.png",		"link":"https://octoflow.booyah.dev"},
 		{"name": "SparrowProxyUI",		"desc": "HTTPプロキシ管理",	"icon": "/sparrow.png",		"link":"https://sparrow.booyah.dev"},
+		{"name": "はぐれOllama設定", 		"desc": "モデル・プロキシ設定", 		"icon": "/chatai-pirate.png",		"link":"http://10.0.50.9:3000"},
 		{"name": "gDNS",		"desc": "外向きDNS管理",	"icon": "/gdns.png",		"link":"https://gdns.booyah.dev/"},
 		{"name": "iDNS",		"desc": "内向きDNS管理",	"icon": "/idns.png",		"link":"https://idns.booyah.dev/"},
 		{"name": "GiTribe4",		"desc": "Unixユーザ管理", 	"icon": "/gitribe4.png",	"link":"https://gitribe4-console.booyah.dev/"},
