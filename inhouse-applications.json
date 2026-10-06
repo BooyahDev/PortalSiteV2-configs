@@ -8,6 +8,7 @@
 		{"name": "gDNS",		"desc": "外向きDNS管理",	"icon": "/gdns.png",		"link":"https://gdns.booyah.dev/"},
 		{"name": "iDNS",		"desc": "内向きDNS管理",	"icon": "/idns.png",		"link":"https://idns.booyah.dev/"},
 		{"name": "GiTribe4",		"desc": "Unixユーザ管理", 	"icon": "/gitribe4.png",	"link":"https://gitribe4-console.booyah.dev/"},
+		{"name": "GiTribe5",		"desc": "Unixユーザ管理", 	"icon": "/gitribe4.png",	"link":"https://gitribe5.booyah.dev"},
 		{"name": "Keycloak",		"desc": "統合ユーザ管理", 	"icon": "/keycloak.png",	"link":"https://auth.booyah.dev/"},
 		{"name": "LDAP",		"desc": "統合ユーザDB", 	"icon": "/ldap.png",		"link":"https://389ds-ldap.tyd.booyah.dev:9090/389-console"},
 		{"name": "HomeLabCA",		"desc": "イントラ用SSL認証局", 	"icon": "/certificate.png",		"link":"https://10.0.50.2:8443/"},
