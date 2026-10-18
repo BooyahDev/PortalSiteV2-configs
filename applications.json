@@ -4,19 +4,19 @@
 		{"name": "メール",		"desc": "フリーメール", 			"icon": "/email.png",		"link":"https://mail.booyah.dev/"},
 		{"name": "雨雲レーダ",		"desc": "アメダス", 			"icon": "/rain.png",		"link":"https://rain.booyah.dev/"},
 		{"name": "高速道路情報",		"desc": "情報元 Jartic", 			"icon": "/car.png",		"link":"https://hw-traffic.booyah.dev/"},
-		{"name": "休憩情報",		"desc": "全国温泉マップ", 			"icon": "/hotspring.png",		"link":"https://yuru-to.net"},
+		{"name": "休憩情報",		"desc": "全国温泉マップ", 			"icon": "/hotspring.png",		"link":"https://yuru-to.net", "view_type": "window"},
 		{"name": "震度マップ",		"desc": "日本全国のリアルタイム震度", 			"icon": "/eew.png",		"link":"https://eew.booyah.dev/"},
-		{"name": "Koma",		"desc": "書籍共有",		"icon": "/comic.png",		"link":"https://book.booyah.dev/"},
-		{"name": "Spotty",		"desc": "音楽共有", 			"icon": "/spotty.png",		"link":"https://music.booyah.dev"},
-		{"name": "KonomiTube",		"desc": "動画共有", 			"icon": "/konomitube.png",		"link":"https://konomitube.booyah.dev"},
-		{"name": "NicoKome",		"desc": "コメント付き動画保存", 			"icon": "/niconico.svg",		"link":"https://nicokome.booyah.dev"},
+		{"name": "Koma",		"desc": "書籍共有",		"icon": "/comic.png",		"link":"https://book.booyah.dev/", "view_type": "window"},
+		{"name": "Spotty",		"desc": "音楽共有", 			"icon": "/spotty.png",		"link":"https://music.booyah.dev", "view_type": "window"},
+		{"name": "KonomiTube",		"desc": "動画共有", 			"icon": "/konomitube.png",		"link":"https://konomitube.booyah.dev", "view_type": "window"},
+		{"name": "NicoKome",		"desc": "コメント付き動画保存", 			"icon": "/niconico.svg",		"link":"https://nicokome.booyah.dev", "view_type": "window"},
         {"name": "OpenCode",		"desc": "AI Agent",		"icon": "/opencode-logo-dark.png",	"categories": [
             {"category": "", "links": [
                 {"name": "OpenCode",		"desc": "OpenCode",		"icon": "/opencode-logo-dark.png",	"link":"https://opencode.booyah.dev/"},
 				{"name": "プロジェクト作成",		"desc": "OpenCode",		"icon": "/opencode-logo-dark.png",	"link":"https://newopencode.booyah.dev/"}
             ]}
         ]},
-		{"name": "Paste", 		"desc": "テキスト共有", 		"icon": "/paste.png",		"link":"https://paste.booyah.dev/"},
+		{"name": "Paste", 		"desc": "テキスト共有", 		"icon": "/paste.png",		"link":"https://paste.booyah.dev/", "view_type": "window"},
  		{"name": "画像DL", 		"desc": "", 			"icon": "/imgdl.png",		"link":"https://imgdl.booyah.dev/"},
 		{"name": "音声・動画DL", 	"desc": "",			"icon": "/viddl.png",		"link":"https://gbdl.booyah.dev/"},
 		{"name": "音声・動画DL", 	"desc": "MeTube",		"icon": "/viddl.png",		"link":"https://metube.booyah.dev/"},
