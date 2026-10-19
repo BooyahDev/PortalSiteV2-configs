@@ -1,7 +1,7 @@
 {
 	"text": "基幹管理ツール", 
 	"items": [
-		{"name": "Cockpit",		"desc": "ハイパーバイザ管理",	"icon": "/cockpit.png",		"link":"https://cockpit.booyah.dev", "view_type": "window"},
+		{"name": "Cockpit",		"desc": "ハイパーバイザ管理",	"icon": "/cockpit.png",		"link":"https://cockpit.booyah.dev", "health":"https://cockpit.booyah.dev/health", "view_type": "window"},
 		{"name": "BoopsDB",		"desc": "マシン・NW管理",	"icon": "/boopsdb.png",		"link":"https://boopsdb.booyah.dev"},
 		{"name": "OctoFlow",		"desc": "L4ロードバランサ(Keepalived)管理",	"icon": "/octoflow_outline2.png",		"link":"https://octoflow.booyah.dev"},
 		{"name": "SparrowProxyUI",		"desc": "HTTPプロキシ管理",	"icon": "/sparrow.png",		"link":"https://sparrow.booyah.dev"},
